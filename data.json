@@ -1,0 +1,26 @@
+{
+  "return":{
+    "name":"Marian Natanael",
+    "phone":"079727001",
+    "postcode":"MD-2093",
+    "city":"Gratiesti, Chisinau",
+    "adress":"Vasile Alecsandri 5"
+  },
+  "delivery":{
+    "name":"Aga Ecaterina",
+    "phone=":"068230232",
+    "postcode":"",
+    "region":"Chisinau",
+    "city":"Botanica",
+    "adress":"str. Sarmisegetuza 23"
+  },
+  "order":{
+    "id":"defa4235n4h3jkl1k23j4_2",
+    "date":"23.05.2020",
+    "paying":"cash",
+    "delivery":"curier",
+    "period":"dupa 18:00",
+    "remark":"-",
+    "sum":"299"
+  }
+}
